@@ -1,0 +1,9 @@
+﻿  Travel.cpp
+d:\codex\source\travel\travel\agen.h(6): warning C4101: 'agen': unreferenced local variable
+d:\codex\source\travel\travel\agen.h(8): warning C4101: 'jam': unreferenced local variable
+d:\codex\source\travel\travel\destination.h(5): warning C4102: 'mainmenu': unreferenced label
+d:\codex\source\travel\travel\destination.h(7): warning C4101: 'dest': unreferenced local variable
+d:\codex\source\travel\travel\destination.h(7): warning C4101: 'back': unreferenced local variable
+d:\codex\source\travel\travel\ordermenu.h(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\codex\source\travel\travel\loginmenu.h(10): warning C4101: 'style': unreferenced local variable
+  Travel.vcxproj -> D:\Codex\Source\Travel\Debug\Travel.exe
